@@ -1,4 +1,4 @@
-# scDenorm-reproducibility
+# scDenorm_reproducibility
 
 ## Overview
 
